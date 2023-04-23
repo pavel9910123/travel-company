@@ -1,0 +1,60 @@
+fieldset{
+	max-width: 600px;
+	border: 2px solid #efefef;
+	border-radius: 50px;
+	margin: 100px auto;
+}
+legend{
+	border: 1px solid #efefef;
+	border-radius: 10px;
+	background-color: #dcdcdc;
+	text-transform: uppercase;
+	padding: 10px;
+	text-align: center;
+}
+.title{
+	float: left;
+	width: 200px;
+	text-align: right;
+	padding-right:  10px;
+
+}
+div.wer{
+
+	padding-bottom: 10px;
+	margin: 10px;
+}
+.submit{
+	margin-left: 250px;
+}
+.gender{
+	margin-left: 250px;
+	padding-bottom: 15px;
+	/**padding-top: 10px;**/
+}
+label.select{
+	margin-left: 180px;
+	
+}
+select{
+	
+	padding-left: 10px;
+	margin-left: 10px;
+	border-radius: 4px;
+	margin-bottom: 10px;
+	width: 178px;
+	padding: 1px 40px;
+	border: 1px solid gray;
+}
+input[type=text]{
+	padding: 3px;
+	border: 1px solid gray;
+	border-radius: 4px;
+}
+input[type=email]{
+	padding: 3px;
+	border: 1px solid gray;
+	border-radius: 4px;
+
+}
+
